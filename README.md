@@ -1,0 +1,2 @@
+# Chaotic-Loop-One-Plus-Device-Locked-
+As one may see that there are many different ways to get pretty much anything fixed. The Qualcomm CRASH Dump was not an intentional chioce. O  I would of had the USB Debugger on. I was only checking my running instances because after the software update, My device was action strange. Had I know I would of just done a full reset. But at this time it is stuck at the restat bootloader. recovery mode.  show barcode. START.
